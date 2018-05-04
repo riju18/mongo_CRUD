@@ -17,9 +17,23 @@
          * set environment variable path of composer
          * download & install mongodb: https://www.mongodb.com/
          * set environment variable path of mongo
-         * open terminal & type: composer require mongodb/mongodb
-         * open another terminal & type mongod; if not works type mongod.exe
+   # project create:
+         * create a folder in wamp or xampp;
+         * goto that folder & open terminal & type: composer require mongodb/mongodb
+   # for mongodb gui method:
+         * open stdio 3T;
+         * open terminal & type mongod; if not works type mongod.exe
+         * set connection name & click connect;
+   #  for mongodb cli method
          * open another terminal & type mongo
-         * create database called profile & create collection called information
+         * a connection will be created on port 27017 by default;
+   # database set:
+     for gui method: select intellishell & type as following:
+         * set db:           use profile
+         * set collection:   db.createCollection('information')
+     for cli method: in last opened terminal type as above
+     
+     // profile is a db & information is a collection name
+      
 # done         
          
