@@ -1,15 +1,16 @@
 # mongo_CRUD
 # advantage:
-   no-sql;
-   schema free;
-   rich queries;
-   auto created id;
-   No complex joins;
- in php:
+   no-sql
+   schema free
+   rich queries
+   auto created id
+   No complex joins
+   
+ # in php:
     any operation can be done by just by asociative array format ( key-value format )
- in js:
+ # in js:
      just json format
-#insatallation:
+# insatallation:
    php:
          download latest version: https://pecl.php.net/package/mongodb (as php version);
          download & install composer;
