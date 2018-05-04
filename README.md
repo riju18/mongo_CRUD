@@ -5,6 +5,7 @@
     * rich queries
     * auto created id
     * No complex joins
+    * compatible with php,js,python,c,C++,java,ruby etc
     * more & more
    
  # in php:
