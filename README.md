@@ -5,6 +5,7 @@
     * rich queries
     * auto created id
     * No complex joins
+    * more & more
    
  # in php:
     any operation can be done by just by asociative array format ( key-value format )
