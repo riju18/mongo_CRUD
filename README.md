@@ -1,5 +1,5 @@
 # mongo_CRUD
-# advantage:
+# advantages:
     * no-sql
     * schema free
     * rich queries
@@ -19,6 +19,7 @@
          * set environment variable path of composer
          * download & install mongodb: https://www.mongodb.com/
          * set environment variable path of mongo
+         * download & install mongoChef : https://studio3t.com/download/ ( for writing command/query in GUI )
    # project setup:
          * create a folder in wamp or xampp;
          * goto that folder & open terminal & type: composer require mongodb/mongodb
