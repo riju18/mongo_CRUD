@@ -14,7 +14,7 @@
      just json format
 # installation:
    # php:
-         * download latest version: https://pecl.php.net/package/mongodb (as php version)
+         * download latest version of mongodb php driver: https://pecl.php.net/package/mongodb (as php version)
          * download & install composer
          * set environment variable path of composer
          * download & install mongodb: https://www.mongodb.com/
