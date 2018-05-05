@@ -19,7 +19,7 @@
          * set environment variable path of composer
          * download & install mongodb: https://www.mongodb.com/
          * set environment variable path of mongo
-   # project create:
+   # project setup:
          * create a folder in wamp or xampp;
          * goto that folder & open terminal & type: composer require mongodb/mongodb
    # for mongodb gui method:
