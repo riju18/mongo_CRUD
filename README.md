@@ -12,7 +12,7 @@
     any operation can be done by just by asociative array format ( key-value format )
  # in js:
      just json format
-# insatallation:
+# installation:
    # php:
          * download latest version: https://pecl.php.net/package/mongodb (as php version)
          * download & install composer
